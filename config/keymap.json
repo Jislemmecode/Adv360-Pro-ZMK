@@ -11,8 +11,8 @@
   "layers": [
     [
        "&kp EQUAL",    "&kp N1",   "&kp N2",   "&kp N3",    "&kp N4",    "&kp N5",             "&tog 1",                                                                            "&mo 3",        "&kp N6", "&kp N7",   "&kp N8",   "&kp N9",   "&kp N0", "&kp MINUS",
-         "&kp ESC",     "&kp W",    "&kp L",    "&kp R",     "&kp B",     "&kp Z",              "&none",                                                                            "&none", "&kp SEMICOLON",  "&kp Q",    "&kp U",    "&kp D",    "&kp J",  "&kp BSLH",
-         "&kp TAB",     "&kp S",    "&kp H",    "&kp N",     "&kp T", "&kp COMMA",              "&none", "&kp LCTRL", "&kp LALT",                      "&kp LGUI", "&kp RCTRL",     "&none",       "&kp DOT",  "&kp A",    "&kp E",    "&kp O",    "&kp I",   "&kp SQT",
+         "&kp TAB",     "&kp W",    "&kp L",    "&kp R",     "&kp B",     "&kp Z",              "&none",                                                                            "&none", "&kp SEMICOLON",  "&kp Q",    "&kp U",    "&kp D",    "&kp J",  "&kp BSLH",
+         "&kp ESC",     "&kp S",    "&kp H",    "&kp N",     "&kp T", "&kp COMMA",              "&none", "&kp LCTRL", "&kp LALT",                      "&kp LGUI", "&kp RCTRL",     "&none",       "&kp DOT",  "&kp A",    "&kp E",    "&kp O",    "&kp I",   "&kp SQT",
        "&kp LSHFT",     "&kp F",    "&kp M",    "&kp V",     "&kp C",  "&kp FSLH",                                    "&kp HOME",                     "&kp PG_UP",                                   "&kp G",  "&kp P",    "&kp X",    "&kp K",    "&kp Y", "&kp RSHFT",
            "&mo 2", "&kp GRAVE", "&kp CAPS", "&kp LEFT", "&kp RIGHT",                        "&kp BSPC",   "&kp DEL",  "&kp END",                     "&kp PG_DN", "&kp ENTER", "&kp SPACE",                  "&kp UP", "&kp DOWN", "&kp LBKT", "&kp RBKT",     "&mo 2"
     ], [
