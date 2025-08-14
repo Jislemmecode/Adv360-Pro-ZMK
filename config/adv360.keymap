@@ -47,8 +47,8 @@
         layer_keypad {
             bindings = <
 &kp EQUAL  &trans     &trans    &trans    &trans     &trans     &trans                                                   &mo 3      &trans      &trans     &trans     &trans     &trans           &kp MINUS
-&kp ESC    &kp W      &kp L     &kp R     &kp B      &kp Z      &none                                                    &none      &kp PLUS    &kp KP_N7  &kp KP_N8  &kp KP_N9  &kp ASTERISK     &kp BSLH
-&kp TAB    &kp S      &kp H     &kp N     &kp T      &kp COMMA  &none     &kp LCTRL  &kp LALT      &kp LGUI   &kp RCTRL  &none      &kp KP_DOT  &kp KP_N4  &kp KP_N5  &kp KP_N6  &kp KP_NUMBER_0  &kp SQT
+&kp TAB    &kp W      &kp L     &kp R     &kp B      &kp Z      &none                                                    &none      &kp PLUS    &kp KP_N7  &kp KP_N8  &kp KP_N9  &kp ASTERISK     &kp BSLH
+&kp ESC    &kp S      &kp H     &kp N     &kp T      &kp COMMA  &none     &kp LCTRL  &kp LALT      &kp LGUI   &kp RCTRL  &none      &kp KP_DOT  &kp KP_N4  &kp KP_N5  &kp KP_N6  &kp KP_NUMBER_0  &kp SQT
 &kp LSHFT  &kp F      &kp M     &kp V     &kp C      &kp FSLH                        &kp HOME      &kp PG_UP                        &kp MINUS   &kp KP_N1  &kp KP_N2  &kp KP_N3  &kp SLASH        &kp RSHFT
 &mo 2      &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT             &kp BSPC  &kp DEL    &kp END       &kp PG_DN  &kp ENTER  &kp SPACE              &kp UP     &kp DOWN   &trans     &trans           &mo 2
             >;
